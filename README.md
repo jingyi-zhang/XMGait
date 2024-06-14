@@ -16,6 +16,13 @@ Then you will get XMGait formatted as:
 
 ![img.png](img.png)
 
+
+## Download the checkpoint 
+
+1. Download cat7-25000.pt from [link](http://www.cwang93.net:1000/share/YnZ8X9JF)
+2. Put it to `XMUGait/output/Xmu_gait/Baseline/cat7/checkpoints`
+
+
 # Train/Test the dataset
 ### Environment
 1. clone this repo.
